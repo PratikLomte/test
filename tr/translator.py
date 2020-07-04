@@ -5,3 +5,6 @@ my_file = open('TranslateMe.txt')
 text = my_file.read()
 translation = translator.translate(text)
 print(translation)
+
+a = 6
+print(a)
