@@ -6,5 +6,5 @@ text = my_file.read()
 translation = translator.translate(text)
 print(translation)
 
-a = 6
+a = 8
 print(a)
